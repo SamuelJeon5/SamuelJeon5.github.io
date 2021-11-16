@@ -110,10 +110,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:acawooya@email.com"
+      url: "mailto:acawooya@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://samueljeon.github.io"
+      url: "https://samueljeon.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/jeon._.bh"
+      url: "https://instagram.com/jeon._.bh"
 
 # Site Footer
 footer:
