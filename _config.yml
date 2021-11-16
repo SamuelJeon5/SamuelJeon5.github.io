@@ -20,7 +20,7 @@ title                    : "Samuel Jeon's BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Samuel Jeon"
-description              : "I am an adventurer exploring cybersecurity and machine learning."
+description              : "The blog about daily life and computer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Jeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a computer scientist."
+  avatar           : "/assets/images/profile/photo.jpg"
+  bio              : "I am a developer who is constantly learning."
   location         : "College Station, TX"
-  email            :
+  email            : "acawooya@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:soulstar67@email.com"
+      # url: "mailto:acawooya@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://samueljeon.github.io"
